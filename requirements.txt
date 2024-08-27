@@ -1,3 +1,5 @@
 matplotlib
-kraken
 jupyter
+pytesseract
+jiwer
+opencv-python
