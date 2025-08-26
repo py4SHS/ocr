@@ -3,3 +3,4 @@ jupyter
 pytesseract
 jiwer
 opencv-python
+PyMuPDF

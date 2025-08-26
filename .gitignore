@@ -1,3 +1,4 @@
 **/tesstrain
 venv
 **/.ipynb_checkpoints
+.venv
